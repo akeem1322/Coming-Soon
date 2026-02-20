@@ -6,9 +6,9 @@
 }
 
 .logo{
-    width: 400px;
+    width: 600px;
     margin-top: -150px;
-    margin-bottom: 250px;
+    margin-bottom: 400px;
 }
 
 .container{
@@ -43,4 +43,5 @@ h2{
     font-weight: 100;
 
 }
+
 
